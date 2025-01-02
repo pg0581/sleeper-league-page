@@ -7,12 +7,10 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+ <p>Welcome to "Show Us Your TDs," where fantasy football meets unapologetic chaos! This isn’t your average dynasty league—this is a testosterone-fueled battlefield for gridiron dominance and ultimate bragging rights. If you're here for polite conversation and vanilla football talk, you’ve taken a wrong turn. But if you're ready to unleash your inner trash-talking savage, then pull up a seat and crack a cold one.</p>
+ <p>Here at "Show Us Your TDs," we’re all about keeping things spicy. We’ve got drama, we’ve got rivalries, and yes, we’ve got more bad puns than an ESPN analyst after two beers. This is where you build your empire, year after year, trading rookies and washed-up veterans like a fantasy stockbroker.</p>
+ <p>Think you can handle the heat? Be ready to make gutsy trades, endure merciless banter, and claw your way to the top of the standings. Don’t just talk the talk—walk the walk. Or stumble through it—we don’t judge. Either way, one thing's for sure: this league will chew you up and spit you out if you’re not ready to show off your TDs… and your fantasy football skills.</p>
+ <p>Remember, in this league, there are only two types of people: champions and everyone else. So, grab your playbook, throw on your game face, and get ready to show us what you’ve got—TDs and all.</p>
 `;
 
 /*   STEP 3   */
